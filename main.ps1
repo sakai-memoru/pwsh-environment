@@ -4,5 +4,8 @@ function process($msg){
 }
 
 ## --------------- ## entry point
+#
+# variables
 $name = "pwsh"
+
 process $name
